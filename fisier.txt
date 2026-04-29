@@ -2,3 +2,5 @@ Laborator 3 Git
 linie noua
 inca o linie
 main changes
+lucru in progres
+main dupa rebase
